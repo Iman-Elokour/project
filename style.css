@@ -1,0 +1,68 @@
+.pic{
+  width: 150;
+  height: 150;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+body{
+	
+	background-image: url("https://images.pexels.com/photos/349610/pexels-photo-349610.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+.navbar-brand{
+  font-family: cursive;	
+  font-size: 50px;
+  color:black;
+}
+
+h5{
+  margin: 12px;
+  font-size: 20;
+  display: inline;
+  left: 40px;
+  top: 2px;
+  right:10px;
+  position: relative;
+  color: black;
+  font-family: "Lucida Console";
+}
+
+h3{
+  font-family:"Comic Sans MS";
+  color:black;	
+}
+
+.label{
+  color:black;
+}
+
+.pic{
+	border-radius: 15px;
+}
+
+#img{
+  width :400px;
+  height: 300px;
+  margin-left: 10px;
+  border:2px solid black;
+}
+
+h4{
+ margin: 12px;
+ font-size: 40px;
+ font-family: "Times New Roman"
+}
+
+p{
+  margin: 16px;
+  font-size: 20px;
+}
+
+ul{
+  font-size: 20px;  
+}
+
+.title{
+	font-size: 50px;
+}
